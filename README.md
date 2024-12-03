@@ -13,7 +13,7 @@ Find out which sales channel contributes the most.
 Identify the highest-selling category.
 Features:
 Interactive and visually appealing charts.
-Insights into sales trends and customer behavior.
+Insights into sales trends and customer behaviour.
 Easy-to-read visualizations for complex data.
 Tools Used:
 Microsoft Excel: For data analysis, cleaning, and creating visualization dashboards.
